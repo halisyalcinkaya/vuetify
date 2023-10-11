@@ -88,12 +88,6 @@ Start off creating a nuxt app by executing the following commands:
 
 ::: tabs
 
-```bash [yarn]
-yarn create nuxt-app <project-name>
-cd <project-name>
-yarn
-```
-
 ```bash [npm]
 npx nuxi@latest init <project-name>
 cd <project-name>
